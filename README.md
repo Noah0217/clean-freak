@@ -12,7 +12,7 @@
   <h1 align="center">Clean Freak</h1>
 
   <p align="center">
-    Clean Freak, an app built using React.js, GraphQL,  Node.js, MondoDB, Express, queries and mutations, Heroku, Tailwind, authentication. <br> This project is responsive, interactive and polished.
+    Clean Freak, an app built using React.js, GraphQL,  Node.js, MongoDB, Express, queries and mutations, Heroku, Tailwind, authentication. <br> This project is responsive, interactive and polished.
     <br />
     <a href="https://github.com/brandon-stewart-rgb/clean-freak"><strong>Explore the docs »</strong></a>
     <br />
